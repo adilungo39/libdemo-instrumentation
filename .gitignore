@@ -1,0 +1,8 @@
+*.o
+*.so
+demo_app
+hook.csv
+latency.png
+__pycache__/
+*.pyc
+.DS_Store
